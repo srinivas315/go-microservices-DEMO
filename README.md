@@ -1,4 +1,4 @@
-Docker file explained below:
+## Docker file explained below:
 
 This is a Dockerfile for a Node.js application using the Next.js framework. It uses a multi-stage build process to create an efficient production Docker image. Here's a breakdown of what each part does:
 
